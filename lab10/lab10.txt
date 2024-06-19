@@ -1,0 +1,3 @@
+Build Machine learning model in Spark with these datasets.
+
+Remember to build all pipeline from EDA, StringIndexing, OHE, to VectorEnsembler and finally ML models.
